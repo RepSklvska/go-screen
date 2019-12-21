@@ -5,11 +5,11 @@ Run shell commands in GNU Screen using Golang.
 
 - [GNU Screen](https://www.gnu.org/software/screen/)
 
-## Install:
+## Install
 
     $ go get github.com/RepSklvska/go-screen
 
-## Example:
+## Example
 
 ```go
 package main
