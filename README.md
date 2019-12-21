@@ -7,7 +7,7 @@ Run shell commands in GNU Screen using Golang.
 
 ## Install
 
-    $ go get github.com/RepSklvska/go-screen
+    $ go get -u github.com/RepSklvska/go-screen
 
 ## Example
 
